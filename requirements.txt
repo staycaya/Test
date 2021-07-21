@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+psycopg2
+warnings
+datetime
+pandas
+pandas.core.common
