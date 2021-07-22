@@ -1,8 +1,6 @@
 pandas
 numpy
-streamlit
 warnings
 datetime
 pandas
 pandas.core.common
-psycopg2-binary
